@@ -6,3 +6,4 @@
 # before running pip install
 
 httpx
+secretbox

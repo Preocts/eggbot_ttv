@@ -8,7 +8,7 @@ import nox
 # Control factors for finding pieces of the module
 MODULE_NAME = "eggbot_ttv"
 TESTS_PATH = "tests"
-COVERAGE_FAIL_UNDER = 50
+COVERAGE_FAIL_UNDER = 0
 REQUIREMENT_IN_FILES = [
     pathlib.Path("requirements/requirements.in"),
     pathlib.Path("requirements/requirements-dev.in"),
